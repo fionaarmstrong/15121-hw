@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="HW01-column-puzzle"/>
+	<classpathentry kind="src" path="HW02-flights"/>
+	<classpathentry kind="src" path="HW03-linked-list"/>
+	<classpathentry kind="src" path="HW04-recursion"/>
+	<classpathentry kind="src" path="HW05-fractals"/>
+	<classpathentry kind="src" path="HW06-array-set-and-linked-cycle"/>
+	<classpathentry kind="src" path="HW07-stacks-and-queues"/>
+	<classpathentry kind="src" path="HW08-binary-trees"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
